@@ -16,6 +16,10 @@ Dado un lugar, ¿es apto para cultivar té de calidad, y por qué? No existía u
 
 Con ese conjunto de datos se entrenaron y compararon varios modelos de aprendizaje automático, y el resultado se llevó a dos entregables funcionales: una aplicación que evalúa cualquier ubicación y explica su resultado, y un mapa que recorre Costa Rica señalando las zonas de mayor potencial.
 
+## Vídeo de presentación
+
+Presentación del proyecto (5 minutos): **[youtu.be/K1mn2ZFblvk](https://youtu.be/K1mn2ZFblvk)**
+
 ## Resultados principales
 
 - 1.363 ubicaciones, 7 variables ambientales (clima, altitud y pH del suelo)
