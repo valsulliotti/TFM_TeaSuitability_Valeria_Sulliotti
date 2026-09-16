@@ -16,9 +16,11 @@ Dado un lugar, ¿es apto para cultivar té de calidad, y por qué? No existía u
 
 Con ese conjunto de datos se entrenaron y compararon varios modelos de aprendizaje automático, y el resultado se llevó a dos entregables funcionales: una aplicación que evalúa cualquier ubicación y explica su resultado, y un mapa que recorre Costa Rica señalando las zonas de mayor potencial.
 
-## Vídeo de presentación
+## Enlaces del proyecto
 
-Presentación del proyecto (5 minutos): **[youtu.be/K1mn2ZFblvk](https://youtu.be/K1mn2ZFblvk)**
+- **Vídeo de presentación** (5 min): [youtu.be/K1mn2ZFblvk](https://youtu.be/K1mn2ZFblvk)
+- **Repositorio**: [github.com/valsulliotti/TFM_TeaSuitability_Valeria_Sulliotti](https://github.com/valsulliotti/TFM_TeaSuitability_Valeria_Sulliotti)
+- **Material complementario en Drive** (datos, modelo entrenado y figuras en alta resolución): [carpeta compartida](https://drive.google.com/drive/folders/1AhcUwFQ02svpyFt_Ai1fUh3vXLUH4wNu?usp=drive_link)
 
 ## Resultados principales
 
